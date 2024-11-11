@@ -22,5 +22,5 @@ This repository is intended for developers and technical users who wish to integ
 This is not an official Chainway repository. The content in this repository has been compiled by enthusiasts who have gathered information available on the web. It is provided as-is and may not be fully up-to-date or supported by Chainway.
 
 ##### Updates
-Most software recent information seems to be posted here: [Chainway Europe Downloads](https://www.chainwayeurope.com/en/download)
-Product details are posted here: [Handheld terminal chainway C66](https://www.chainwayeurope.com/en/products/android-mobile-computers/handheld-terminal-chainway-c66)
+* Most software recent information seems to be posted here: [Chainway Europe Downloads](https://www.chainwayeurope.com/en/download)
+* Product details are posted here: [Handheld terminal chainway C66](https://www.chainwayeurope.com/en/products/android-mobile-computers/handheld-terminal-chainway-c66)
