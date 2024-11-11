@@ -1,0 +1,56 @@
+UHF.Filter_Fragment, UHF;md528627aaeb6f9117298e91b1bbc0f3dd1.Filter_Fragment
+UHF.Filter_Fragment, UHF, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md528627aaeb6f9117298e91b1bbc0f3dd1.Filter_Fragment
+UHF.Filter_Fragment;md528627aaeb6f9117298e91b1bbc0f3dd1.Filter_Fragment
+uhf.Filter_Fragment;md528627aaeb6f9117298e91b1bbc0f3dd1.Filter_Fragment
+UHF.MainActivity, UHF;md528627aaeb6f9117298e91b1bbc0f3dd1.MainActivity
+UHF.MainActivity, UHF, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md528627aaeb6f9117298e91b1bbc0f3dd1.MainActivity
+UHF.MainActivity;md528627aaeb6f9117298e91b1bbc0f3dd1.MainActivity
+uhf.MainActivity;md528627aaeb6f9117298e91b1bbc0f3dd1.MainActivity
+UHF.MainActivity/InitTask, UHF;md528627aaeb6f9117298e91b1bbc0f3dd1.MainActivity_InitTask
+UHF.MainActivity+InitTask, UHF, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md528627aaeb6f9117298e91b1bbc0f3dd1.MainActivity_InitTask
+UHF.MainActivity.InitTask;md528627aaeb6f9117298e91b1bbc0f3dd1.MainActivity_InitTask
+uhf.MainActivity_InitTask;md528627aaeb6f9117298e91b1bbc0f3dd1.MainActivity_InitTask
+UHF.HomeKeyEventBroadCastReceiver, UHF;md528627aaeb6f9117298e91b1bbc0f3dd1.HomeKeyEventBroadCastReceiver
+UHF.HomeKeyEventBroadCastReceiver, UHF, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md528627aaeb6f9117298e91b1bbc0f3dd1.HomeKeyEventBroadCastReceiver
+UHF.HomeKeyEventBroadCastReceiver;md528627aaeb6f9117298e91b1bbc0f3dd1.HomeKeyEventBroadCastReceiver
+uhf.HomeKeyEventBroadCastReceiver;md528627aaeb6f9117298e91b1bbc0f3dd1.HomeKeyEventBroadCastReceiver
+UHF.Scan_Fragment, UHF;md528627aaeb6f9117298e91b1bbc0f3dd1.Scan_Fragment
+UHF.Scan_Fragment, UHF, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md528627aaeb6f9117298e91b1bbc0f3dd1.Scan_Fragment
+UHF.Scan_Fragment;md528627aaeb6f9117298e91b1bbc0f3dd1.Scan_Fragment
+uhf.Scan_Fragment;md528627aaeb6f9117298e91b1bbc0f3dd1.Scan_Fragment
+UHF.Scan_Fragment/UIHand, UHF;md528627aaeb6f9117298e91b1bbc0f3dd1.Scan_Fragment_UIHand
+UHF.Scan_Fragment+UIHand, UHF, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md528627aaeb6f9117298e91b1bbc0f3dd1.Scan_Fragment_UIHand
+UHF.Scan_Fragment.UIHand;md528627aaeb6f9117298e91b1bbc0f3dd1.Scan_Fragment_UIHand
+uhf.Scan_Fragment_UIHand;md528627aaeb6f9117298e91b1bbc0f3dd1.Scan_Fragment_UIHand
+UHF.Set_Fragment, UHF;md528627aaeb6f9117298e91b1bbc0f3dd1.Set_Fragment
+UHF.Set_Fragment, UHF, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md528627aaeb6f9117298e91b1bbc0f3dd1.Set_Fragment
+UHF.Set_Fragment;md528627aaeb6f9117298e91b1bbc0f3dd1.Set_Fragment
+uhf.Set_Fragment;md528627aaeb6f9117298e91b1bbc0f3dd1.Set_Fragment
+UHF.Read_Fragment, UHF;md528627aaeb6f9117298e91b1bbc0f3dd1.Read_Fragment
+UHF.Read_Fragment, UHF, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md528627aaeb6f9117298e91b1bbc0f3dd1.Read_Fragment
+UHF.Read_Fragment;md528627aaeb6f9117298e91b1bbc0f3dd1.Read_Fragment
+uhf.Read_Fragment;md528627aaeb6f9117298e91b1bbc0f3dd1.Read_Fragment
+UHF.Write_Fragment, UHF;md528627aaeb6f9117298e91b1bbc0f3dd1.Write_Fragment
+UHF.Write_Fragment, UHF, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md528627aaeb6f9117298e91b1bbc0f3dd1.Write_Fragment
+UHF.Write_Fragment;md528627aaeb6f9117298e91b1bbc0f3dd1.Write_Fragment
+uhf.Write_Fragment;md528627aaeb6f9117298e91b1bbc0f3dd1.Write_Fragment
+Com.Zebra.Adc.Decoder.BarCodeReader/IOnZoomChangeListenerImplementor, DeviceAPI;mono.com.zebra.adc.decoder.BarCodeReader_OnZoomChangeListenerImplementor
+Com.Zebra.Adc.Decoder.BarCodeReader+IOnZoomChangeListenerImplementor, DeviceAPI, Version=2019.8.15.0, Culture=neutral, PublicKeyToken=null;mono.com.zebra.adc.decoder.BarCodeReader_OnZoomChangeListenerImplementor
+Com.Zebra.Adc.Decoder.BarCodeReader.IOnZoomChangeListenerImplementor;mono.com.zebra.adc.decoder.BarCodeReader_OnZoomChangeListenerImplementor
+mono.com.zebra.adc.decoder.BarCodeReader_OnZoomChangeListenerImplementor;mono.com.zebra.adc.decoder.BarCodeReader_OnZoomChangeListenerImplementor
+Com.Rscja.Deviceapi.BDNavigation/IBDLocationListenerImplementor, DeviceAPI;mono.com.rscja.deviceapi.BDNavigation_BDLocationListenerImplementor
+Com.Rscja.Deviceapi.BDNavigation+IBDLocationListenerImplementor, DeviceAPI, Version=2019.8.15.0, Culture=neutral, PublicKeyToken=null;mono.com.rscja.deviceapi.BDNavigation_BDLocationListenerImplementor
+Com.Rscja.Deviceapi.BDNavigation.IBDLocationListenerImplementor;mono.com.rscja.deviceapi.BDNavigation_BDLocationListenerImplementor
+mono.com.rscja.deviceapi.BDNavigation_BDLocationListenerImplementor;mono.com.rscja.deviceapi.BDNavigation_BDLocationListenerImplementor
+Com.Rscja.Deviceapi.BDNavigation/IBDStatusListenerImplementor, DeviceAPI;mono.com.rscja.deviceapi.BDNavigation_BDStatusListenerImplementor
+Com.Rscja.Deviceapi.BDNavigation+IBDStatusListenerImplementor, DeviceAPI, Version=2019.8.15.0, Culture=neutral, PublicKeyToken=null;mono.com.rscja.deviceapi.BDNavigation_BDStatusListenerImplementor
+Com.Rscja.Deviceapi.BDNavigation.IBDStatusListenerImplementor;mono.com.rscja.deviceapi.BDNavigation_BDStatusListenerImplementor
+mono.com.rscja.deviceapi.BDNavigation_BDStatusListenerImplementor;mono.com.rscja.deviceapi.BDNavigation_BDStatusListenerImplementor
+Com.Rscja.Deviceapi.BluetoothReader/IOnDataChangeListenerImplementor, DeviceAPI;mono.com.rscja.deviceapi.BluetoothReader_OnDataChangeListenerImplementor
+Com.Rscja.Deviceapi.BluetoothReader+IOnDataChangeListenerImplementor, DeviceAPI, Version=2019.8.15.0, Culture=neutral, PublicKeyToken=null;mono.com.rscja.deviceapi.BluetoothReader_OnDataChangeListenerImplementor
+Com.Rscja.Deviceapi.BluetoothReader.IOnDataChangeListenerImplementor;mono.com.rscja.deviceapi.BluetoothReader_OnDataChangeListenerImplementor
+mono.com.rscja.deviceapi.BluetoothReader_OnDataChangeListenerImplementor;mono.com.rscja.deviceapi.BluetoothReader_OnDataChangeListenerImplementor
+Com.Hsm.Barcode.IDecoderListenerImplementor, DeviceAPI;mono.com.hsm.barcode.DecoderListenerImplementor
+Com.Hsm.Barcode.IDecoderListenerImplementor, DeviceAPI, Version=2019.8.15.0, Culture=neutral, PublicKeyToken=null;mono.com.hsm.barcode.DecoderListenerImplementor
+Com.Hsm.Barcode.IDecoderListenerImplementor;mono.com.hsm.barcode.DecoderListenerImplementor
+mono.com.hsm.barcode.DecoderListenerImplementor;mono.com.hsm.barcode.DecoderListenerImplementor

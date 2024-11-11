@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <ManifestDocuments />
+  <NativeLibraries />
+  <Jars>
+    <Jar>obj\Debug\__library_projects__\DeviceAPI\library_project_imports\cw-deviceapi20190815.jar</Jar>
+    <Jar>obj\Debug\__library_projects__\DeviceAPI\library_project_imports\IGLBarDecoder.jar</Jar>
+  </Jars>
+</Paths>
