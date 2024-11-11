@@ -1,0 +1,130 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="${relativePackage}.${activityClass}" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="44dp"
+            android:layout_gravity="center"
+            android:gravity="center" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/btnmenuno"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Menu Disable" />
+
+        <Button
+            android:id="@+id/btnmenuyes"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Menu Enable" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/btnhomeno"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Home Disable" />
+
+        <Button
+            android:id="@+id/btnhomeyes"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Home Enable" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/btndownno"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SlideDown Menu Disable" />
+
+        <Button
+            android:id="@+id/btndownyes"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SlideDown Menu Enable" />
+    </LinearLayout>
+ <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+     <Button
+         android:id="@+id/btntouchN"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:text="Touch Disable" />
+
+     <Button
+         android:id="@+id/btntouchY"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:text="Touch Enable" />
+      
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/btnscreenN"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Screen Lock" />
+
+        <Button
+            android:id="@+id/btnscreenY"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Screen UnLock" />
+      
+    </LinearLayout>
+    
+     <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+         <Button
+             android:id="@+id/btnscapN"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:text="Screenshot Disable" />
+
+         <Button
+             android:id="@+id/btnscapY"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:text="Screenshot Enable" />
+      
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,2 @@
+1. disable/enable Home,Menu,SlideDown
+2. disable/enable touch,screen lock, screenshot
