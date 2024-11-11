@@ -20,3 +20,6 @@ This repository is intended for developers and technical users who wish to integ
 
 #### Disclaimer:
 This is not an official Chainway repository. The content in this repository has been compiled by enthusiasts who have gathered information available on the web. It is provided as-is and may not be fully up-to-date or supported by Chainway.
+
+##### Updates
+Most recent information seems to be posted here: [Chainway Europe Downloads](https://www.chainwayeurope.com/en/download)
