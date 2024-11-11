@@ -1,4 +1,4 @@
-### Chainway C66 PDA Repository
+### Chainway C66 Handheld terminal Repository
 
 This repository contains the source code, documentation, and resources for working with the **Chainway C66 PDA (Personal Digital Assistant)**. The C66 is a rugged, Android-based device designed for industrial and commercial use, offering a variety of features such as barcode scanning, GPS functionality, and long-lasting battery life. It is typically used in sectors like logistics, warehousing, retail, and field service.
 
